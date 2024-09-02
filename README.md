@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsaacPGPro
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C++
+- 👀 I am a Game Developer, Hobbyist.
+- 🌱 I'm currently learning OpenGL
 
 <!---
 IsaacPGPro/IsaacPGPro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
